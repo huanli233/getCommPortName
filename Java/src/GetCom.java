@@ -6,7 +6,7 @@ public class GetCom {
             String portName = port.getDescriptivePortName();
             if (portName.contains("Qualcomm") && portName.contains("MDM")) {
 				System.out.println(port.getSystemPortName());
-			}
+	    }
         }
     }
 }
