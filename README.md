@@ -1,3 +1,3 @@
 ## Get commportname
-  · Python
-  · Java
+· Python
+· Java
